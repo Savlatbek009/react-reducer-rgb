@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background: rgb(208, 203, 203);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.App {
+  width: 70%;
+  margin: 50px auto;
+}
+.clicker {
+  background: #000;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
